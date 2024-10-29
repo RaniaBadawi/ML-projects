@@ -20,3 +20,5 @@ This project uses the MNIST dataset to classify handwritten digits (0–9) by co
 - F1 Score: Harmonic mean of precision and recall.
 - Confusion Matrix: Visualizes the true vs. predicted classifications.
 
+# logistic-regression on iris dataset
+
