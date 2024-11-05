@@ -26,7 +26,7 @@ This project uses the MNIST dataset to classify handwritten digits (0–9) by co
 - data preprocessing
 - outline the model
 - fine tuning the hyperparameter
-- compiling with adam optimize
+- compiling with adam optimizer
 ## results
 - accuracy = 97.19% and total loss 0.09
 
