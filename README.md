@@ -21,7 +21,7 @@ This project uses the MNIST dataset to classify handwritten digits (0–9) by co
 - Confusion Matrix: Visualizes the true vs. predicted classifications.
 
 # logistic-regression on iris dataset
-# MNIST-Tensorflo
+# MNIST-Tensorflow
 ## features
 - data preprocessing
 - outline the model
